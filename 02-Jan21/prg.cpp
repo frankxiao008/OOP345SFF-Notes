@@ -30,8 +30,8 @@ ostream& operator<< (ostream& os, Name&& N) {
 }
 void printNames(Name N[]) {
   int i;
-  for (i = 0; i < sizeof(N) / sizeof(Name); i++) {
-    cout << N[i] << endl;
+  for (i = 0; i < sizeof(N) / sizeof(Name); i++) {  // will not work since C++ does know know if N is an array or pointer?
+    cout << N[i] << endl;                           // sizeof N will be 4
   }
 }
 int main() {
