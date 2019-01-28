@@ -2,12 +2,7 @@
 #include "Box.h"
 using namespace std;
 namespace sict {
-  
-  
   unsigned int Box::m_num = 0;
-
-
-
   Box::Box() :Box(0) {}
   Box::Box(int side):Box(side, side) {}
   Box::Box(int w, int h) {
