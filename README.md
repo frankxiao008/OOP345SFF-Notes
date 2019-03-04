@@ -1,7 +1,7 @@
 # OOP345SFF-Notes
 # OOP345 SFF in-class notes and material 
 
-## OOP244 links 
+## OOP345 links 
 [Subject outline](https://ict.senecacollege.ca/course/oop345)<br />
 [Subject timeline](https://scs.senecac.on.ca/~oop345/pages/timeline.html)<br />
 [Online verions of the notes sold in the bookstore](https://scs.senecac.on.ca/~oop345/pages/content/index.html)<br />
